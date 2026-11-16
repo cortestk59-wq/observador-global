@@ -1,0 +1,6 @@
+{
+  "name": "Observador Global",
+  "description": "Portal de jornalismo econômico, tecnologia, entretenimento e regulação internacional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
